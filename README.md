@@ -31,7 +31,7 @@ The landing page of the application is a list of all the coins. Each coin item c
 -The price change in percentage of the last 24 hours
 -The pagination mechanism implemented requests a specific amount of coins on each request.
 
-<img src="src/cryptomarket.png" alt="list of crypto">
+<img src="frontend/src/cryptomarket.png" alt="list of crypto">
 
 ### Coin Details Page
 
@@ -44,4 +44,4 @@ This page contains detailed information about a specific coin. The following inf
 -The highest price on the last day
 -The lowest price on the last day
 
-<img src="src/cryptodetail.png" alt="list of crypto">
+<img src="frontend/src/cryptodetail.png" alt="list of crypto">
